@@ -6,4 +6,4 @@ The code is designed to look realistic and readable while still containing weak 
 
 Files are small on purpose so they can be inspected quickly in a GitHub-based evaluation run.
 
-Current utilities include input sanitization, checkout normalization, numeric aggregation, search query building, and preference merging helpers.
+Current utilities include input sanitization, checkout normalization, numeric aggregation, search query building, preference merging, and tag serialization helpers.
